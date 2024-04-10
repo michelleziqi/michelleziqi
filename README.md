@@ -1,2 +1,2 @@
 # Michelle Yang
-<h1 align = "center">Hi, I'm Michell </h1>
+<h1 align = "center">Hi, I'm Michelle </h1>
