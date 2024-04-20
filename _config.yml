@@ -11,3 +11,5 @@ show_frame: true
 navigation:
   - {file: "index.html", title:"Home", icon: home}
   - {file: "index.html", title:"CV", icon: CV}
+plugins:
+ - jekyll-feed
