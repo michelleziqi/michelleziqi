@@ -1,3 +1,5 @@
+plugins:
+  - jekyll-remote-theme
 <html lang="en">
 <head>
     <meta charset="utf-8"/>
