@@ -9,5 +9,6 @@ excerpt_separator: "\n\n\n"
 show_frame: true
 
 navigation:
-- {file: "index.html", title:"Home", icon: home}
-- {file: "README.md", title:"Project", icon: address-card}
+ - {file: "index.html", title:"Home", icon: home}
+ - {file: "index.html", title:"CV", icon: CV}
+ - {file: "README.md", title:"Project", icon: address-card}
