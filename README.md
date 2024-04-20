@@ -1,4 +1,4 @@
-<h1 align = "center">Michelle Yang</h1>
+title: "Michelle Yang"
 
 <h1 align = "center">Hello, I am Michelle Yang. It's a pleasure to share my experience, knowledge, and life here. </h1>
 
