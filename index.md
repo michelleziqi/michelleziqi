@@ -12,7 +12,7 @@ title: "Home"
 <html lang="en">
 <head>
     <meta charset="utf-8"/>
-    <title>Michelle Yang</title>
+    <title><h1 align="center">Michelle Yang</h1></title>
 </head>
 <body>
 <h1>About Me</h1>
