@@ -1,2 +1,13 @@
-theme: jekyll-theme-tactile
 title: "Michelle Yang"
+author: "Michelle Yang"
+email: michelleziqi@gmail.com
+future: true
+permalink: /:categories/:title:output_ext
+excerpt_separator: "\n\n\n"
+
+# Layout
+show_frame: true
+
+navigation:
+- {file: "index.html", title:"Home", icon: home}
+- {file: "README.md", title:"Project", icon: address-card}
